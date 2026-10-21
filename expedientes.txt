@@ -1,0 +1,25 @@
+﻿EXP-2026-0001|70000001|ANA TORRES RAMIREZ|Solicitud de constancia domiciliaria|21/09/2026 08:49|Recibido
+EXP-2026-0002|70000002|LUIS PEREZ FLORES|Consulta sobre expediente administrativo|22/09/2026 09:08|En proceso
+EXP-2026-0003|70000003|MARIA GARCIA LOPEZ|Solicitud de copia de documento|23/09/2026 09:27|Atendido
+EXP-2026-0004|70000004|CARLOS RUIZ MENDOZA|Pedido de informacion institucional|24/09/2026 09:46|Recibido
+EXP-2026-0005|70000005|ROSA VARGAS DIAZ|Solicitud de certificado de estudios|25/09/2026 10:05|En proceso
+EXP-2026-0006|70000006|JOSE CASTILLO REYES|Reclamo por demora en atencion|26/09/2026 10:24|Atendido
+EXP-2026-0007|70000007|ELENA SOTO CAMPOS|Solicitud de rectificacion de datos|27/09/2026 10:43|Recibido
+EXP-2026-0008|70000008|PEDRO QUISPE HUAMAN|Presentacion de documentos adicionales|28/09/2026 11:02|En proceso
+EXP-2026-0009|70000009|LUCIA RAMOS VEGA|Solicitud de autorizacion municipal|29/09/2026 11:21|Atendido
+EXP-2026-0010|70000010|MIGUEL CHAVEZ PONCE|Consulta sobre estado de tramite|30/09/2026 11:40|Recibido
+EXP-2026-0011|70000011|SOFIA NAVARRO ROJAS|Solicitud de duplicado de constancia|01/10/2026 11:59|En proceso
+EXP-2026-0012|70000012|DIEGO MORALES CRUZ|Pedido de acceso a informacion publica|02/10/2026 12:18|Atendido
+EXP-2026-0013|70000013|CARMEN MEDINA SILVA|Solicitud de revision de expediente|03/10/2026 12:37|Recibido
+EXP-2026-0014|70000014|JULIO SALAZAR PAREDES|Presentacion de descargos|04/10/2026 12:56|En proceso
+EXP-2026-0015|70000015|PAOLA FLORES AGUILAR|Solicitud de registro de documento|05/10/2026 13:15|Atendido
+EXP-2026-0016|70000016|RICARDO LEON NUÑEZ|Consulta de requisitos administrativos|06/10/2026 13:34|Recibido
+EXP-2026-0017|70000017|ANDREA REYES VALDEZ|Solicitud de actualizacion de datos|07/10/2026 13:53|En proceso
+EXP-2026-0018|70000018|JORGE HUERTA MORA|Reclamo por observacion de tramite|08/10/2026 14:12|Atendido
+EXP-2026-0019|70000019|PATRICIA LOPEZ RIVERA|Solicitud de certificado de posesion|09/10/2026 08:31|Recibido
+EXP-2026-0020|70000020|OSCAR ROMERO TORRES|Pedido de constancia de recepcion|10/10/2026 08:50|En proceso
+EXP-2026-0021|70000021|DIANA CAMPOS SOTO|Solicitud de inspeccion tecnica|11/10/2026 09:09|Atendido
+EXP-2026-0022|70000022|FERNANDO VEGA PEREZ|Consulta sobre pago de derechos|12/10/2026 09:28|Recibido
+EXP-2026-0023|70000023|GABRIELA PONCE ROJAS|Solicitud de subsanacion documental|13/10/2026 09:47|En proceso
+EXP-2026-0024|70000024|MARTIN DIAZ FLORES|Presentacion de recurso administrativo|14/10/2026 10:06|Atendido
+EXP-2026-0025|70000025|VERONICA CRUZ SALAS|Solicitud de entrega de resolucion|15/10/2026 10:25|Recibido

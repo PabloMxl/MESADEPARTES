@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>MesaPartesDigital</RootNamespace>
+    <AssemblyName>MesaPartesDigital</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="expedientes.txt" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>
